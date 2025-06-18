@@ -1,4 +1,5 @@
 **User Guide**
+
 The application was developed in a Jupyter Notebook and hosted in Google Colab. It requires no local installation and is accessible through a web browser. Follow these steps to access the application:
 1.	Open the Google Colab Link: https://colab.research.google.com/drive/1SfL-YlQhWckWv9ZwL30VDyONg9Vq-o8r?usp=sharing
 2.	Click on “Run all” at the top of the notebook.
